@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="acwing">
+      <UniqueIdentifier>{3c7707db-8f1e-49d1-b2d1-bd4422d8d564}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="acwing\第一讲 基础算法">
+      <UniqueIdentifier>{d9a51668-4e3c-473f-8cb2-831f27907513}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="leetcode">
+      <UniqueIdentifier>{ce62fb06-5764-46c8-89c5-18a1b0b4ba50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\acwing782_第k个数.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="..\acwing786_第k个数.cpp">
+      <Filter>acwing\第一讲 基础算法</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
