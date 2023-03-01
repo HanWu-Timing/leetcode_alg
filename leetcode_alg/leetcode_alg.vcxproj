@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\acwing786_第k个数.cpp" />
+    <ClCompile Include="acwing787_归并排序.cpp" />
+    <ClCompile Include="acwing788_逆序对的数量.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -27,5 +27,11 @@
     <ClCompile Include="..\acwing786_第k个数.cpp">
       <Filter>acwing\第一讲 基础算法</Filter>
     </ClCompile>
+    <ClCompile Include="acwing787_归并排序.cpp">
+      <Filter>acwing\第一讲 基础算法</Filter>
+    </ClCompile>
+    <ClCompile Include="acwing788_逆序对的数量.cpp">
+      <Filter>acwing\第一讲 基础算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
